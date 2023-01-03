@@ -1,0 +1,21 @@
+{
+	"id": "7fc9e5d2-c4c5-4fec-8cf8-fed4c7d7a652",
+	"values": [
+		{
+			"key": "Track Id",
+			"value": "https://api.spotify.com/v1/tracks/11dFghVXANMlKmJXsNCbNl?market=ES",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Playlist ",
+			"value": "https://api.spotify.com/v1/playlists/1EM8HVu9bbxMkclc8n86Sk",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-01-03T16:18:28.287Z",
+	"_postman_exported_using": "Postman/10.6.7"
+}

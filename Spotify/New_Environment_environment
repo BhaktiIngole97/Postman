@@ -1,0 +1,15 @@
+{
+	"id": "169da941-18c2-436f-8188-b47069c4d3e0",
+	"name": "New Environment",
+	"values": [
+		{
+			"key": "Auth",
+			"value": "Bearer BQC1y-W5RkLH7tsCkX_P8Q8nxLl1MSXfpTAU-EiRKS3Mw7C6JiHTki1AUJYjYl5CKurbCq0GR_tVuypBSJCZiw7JtlDtd66HkzeSxbNZ2A3bpcHyYNM5iwmJwsRaOGlBc6Nd9ZBNE2WRbwnaKq0ssffB3tZG6QVn4Zgw7UzBz-H_qTAVAIw2duCAXvTlNQf3XEqXOCoDzugpQajooQq_MLOnkrdyDs4fvajAkP8laGOPlNgszEDS6qGFzC2zV269gUDN9PqgFWk",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-01-03T16:17:15.622Z",
+	"_postman_exported_using": "Postman/10.6.7"
+}
